@@ -57,7 +57,7 @@ An equally important goal is to prove and teach the methods of anarchist organiz
  * Restricting membership privileges
  * Keeping records of decisions and restrictions
 * Defense (responding to external threats)
- * Applying external restrictions
+ * Enforcing external restrictions
  * Organizing defensive working groups
 * Foreign Affairs? (Not sure if this needs to be a module)
 
